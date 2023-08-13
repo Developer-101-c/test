@@ -4,3 +4,5 @@
 *& Test für GitHub Push
 *&---------------------------------------------------------------------*
 REPORT ztest.
+
+WRITE 'Hello World!'.
